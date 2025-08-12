@@ -1,25 +1,17 @@
 {
-  "name": "web-development",
+  "name": "CommonJs Vs EcmaScript Modules",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akadcoder/Web-Development.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akadcoder/Web-Development/issues"
-  },
-  "homepage": "https://github.com/akadcoder/Web-Development#readme",
   "dependencies": {
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2"
   }
 }
